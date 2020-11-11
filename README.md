@@ -23,7 +23,7 @@
 <img src="http://views.whatilearened.today/views/github/kingaspx/views.svg"/>
 <h3>⚡️ Um pouco sobre mim ⚡️</h3><br/>
 <p>
-  🧔 Eu me chamo <bold>Abner</bold>. 24 anos, amante de códigos e resutlados.<br/>
+  🧔 Eu me chamo <bold>Abner</bold>. 24 anos, amante de códigos e resultados.<br/>
   💼 Atualmente moro em <a href="https://www.google.com/maps?q=são paulo">São Paulo</a>, Brasil.<br/>
   💻 Desenvolvedor Desktop & Web. <bold>ReactJS</bold><em></em> × <bold>Java</bold>.<br/>
   🎥 Tenho um canal no <a href="https://youtube.com/kingaspx">Youtube</a>, de tempos em tempos faço uns projetos Open Source. <br/>
